@@ -3,12 +3,9 @@
 Um rastreador de criptomoedas moderno e responsivo desenvolvido com JavaScript puro. Acompanhe os preços em tempo real, capitalização de mercado e variações das principais moedas digitais do mundo.
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript)
-
-
 ## 📋 Sobre o Projeto
 
-O **Crypto Tracker JS** é uma aplicação web que consome dados de uma API externa (como CoinGecko ou CoinMarketCap) para fornecer informações atualizadas sobre o mercado de criptomoedas. O objetivo é oferecer uma interface limpa e rápida para usuários que desejam monitorar seus ativos.
+O **Crypto Tracker JS** é uma aplicação web que consome dados de uma API externa (CoinMarketCap nesse caso) para fornecer informações atualizadas sobre o mercado de criptomoedas. O objetivo é oferecer uma interface limpa e rápida para usuários que desejam monitorar seus ativos.
 
 
 ## 🛠️ Tecnologias Utilizadas
