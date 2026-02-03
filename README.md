@@ -2,8 +2,8 @@
 
 Um rastreador de criptomoedas moderno e responsivo desenvolvido com JavaScript puro. Acompanhe os preços em tempo real, capitalização de mercado e variações das principais moedas digitais do mundo.
 
-![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+
+![JavaScript](https://img.shields.io/badge/JavaScript)
 
 
 ## 📋 Sobre o Projeto
